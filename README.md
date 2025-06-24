@@ -1,3 +1,5 @@
+![Bunking-Traveller](https://github.com/user-attachments/assets/d30bb7d6-c7bc-4807-b442-5c813eed6dd0)
+
 # Bunking-Traveller
 A GenAI-powered tourism assistant built using LangChain and OpenAI — designed to provide real-time travel suggestions, Q&amp;A, and smart planning for tourists.
 

@@ -3,6 +3,9 @@
 # Bunking-Traveller
 A GenAI-powered tourism assistant built using LangChain and OpenAI — designed to provide real-time travel suggestions, Q&amp;A, and smart planning for tourists.
 
+> ⚠️ **Status: Active Development** — Core architecture complete, 
+> full deployment in progress as part of MindForge project.
+
 # Bunking-Traveller (Work In Progress)
 
 A GenAI-powered tourism assistant built using:

@@ -1,0 +1,16 @@
+# Core deps actually used by app/chatbot.py (embeddings, vector search, seq2seq generation).
+# Pinned to what's installed in .venv (Python 3.11) as of 2026-09-01.
+sentence-transformers==6.0.1
+transformers==5.16.1
+faiss-cpu==1.15.0
+numpy==2.4.6
+torch==2.13.0
+
+# Not yet installed / not used by any code yet — add when that architecture question
+# (plain FAISS vs. LangChain/LangGraph/Chroma, local model vs. OpenAI API, FastAPI service
+# vs. CLI) actually gets decided:
+#   fastapi
+#   uvicorn
+#   langchain / langgraph
+#   chromadb
+#   openai

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Big Ben",
+    "desc": "A famous clock tower attached to the Houses of Parliament in London, England, known for its accurate timekeeping and iconic bell."
+  },
+  {
+    "name": "Tower of London",
+    "desc": "A historic castle on the north bank of the Thames in London, once used as a prison and now home to the Crown Jewels."
+  },
+  {
+    "name": "London Eye",
+    "desc": "A giant Ferris wheel on the South Bank of the River Thames in London, offering panoramic views of the city."
+  },
+  {
+    "name": "Eiffel Tower",
+    "desc": "A wrought-iron lattice tower on the Champ de Mars in Paris, France, and one of the most recognizable structures in the world."
+  },
+  {
+    "name": "Louvre Museum",
+    "desc": "The world's largest art museum, located in Paris, France, home to the Mona Lisa and thousands of other works."
+  },
+  {
+    "name": "Colosseum",
+    "desc": "An ancient amphitheater in the center of Rome, Italy, once used for gladiatorial contests and public spectacles."
+  },
+  {
+    "name": "Sagrada Familia",
+    "desc": "A large unfinished Roman Catholic basilica in Barcelona, Spain, designed by architect Antoni Gaudi."
+  },
+  {
+    "name": "Brandenburg Gate",
+    "desc": "An 18th-century neoclassical monument in Berlin, Germany, symbolizing the reunification of East and West Germany."
+  },
+  {
+    "name": "Anne Frank House",
+    "desc": "A biographical museum in Amsterdam, Netherlands, dedicated to Anne Frank, the Jewish diarist who hid there during World War II."
+  },
+  {
+    "name": "Charles Bridge",
+    "desc": "A historic stone bridge crossing the Vltava River in Prague, Czech Republic, lined with statues of saints."
+  },
+  {
+    "name": "Acropolis of Athens",
+    "desc": "An ancient citadel on a rocky outcrop in Athens, Greece, containing the remains of several historically significant buildings, including the Parthenon."
+  },
+  {
+    "name": "Blue Lagoon",
+    "desc": "A geothermal spa in southwestern Iceland, known for its milky-blue mineral-rich waters, popular with budget and luxury travelers alike."
+  },
+  {
+    "name": "Plitvice Lakes National Park",
+    "desc": "A national park in Croatia known for a chain of 16 terraced lakes joined by waterfalls, popular with backpackers and nature lovers."
+  },
+  {
+    "name": "Meteora Monasteries",
+    "desc": "A group of Eastern Orthodox monasteries built atop natural sandstone rock pillars near Kalabaka, Greece."
+  },
+  {
+    "name": "Hostel La Buena Vida",
+    "desc": "A budget-friendly backpacker hostel in Lisbon, Portugal, popular for its rooftop terrace and social atmosphere among traveling students."
+  }
+]
